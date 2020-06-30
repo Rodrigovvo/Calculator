@@ -1,8 +1,9 @@
 #coding: utf-8
 #author: Rodrigo Vinicius
-
 from kivy.app import App
 from kivy.uix.gridlayout import GridLayout
+
+
 
 class CalcGridLayout(GridLayout):
     padding = (20, 20, 20, 20)
